@@ -6,7 +6,7 @@ body {
 }
 
 .output-box {
-    background-color: coral;
+    background-color: rgb(34, 210, 125);
     border: 6px solid #000;
     padding: 10px;
 }
