@@ -1,13 +1,13 @@
 body {
     margin: 0;
     padding: 24px;
-    background-color: #d9d9d9;
+    background-color: #ececec;
     font-family: "Times New Roman", serif;
 }
 
 .output-box {
-    background-color: rgb(34, 210, 125);
-    border: 6px solid #000;
+    background-color: rgb(37, 212, 127);
+    border: 6px solid black;
     padding: 10px;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 #bglime {
-    background-color: #68f36a;
+    background-color: #67f369;
 }
 
 #bglime span {
